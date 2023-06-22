@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielevans-samsunguk
-- 👀 I’m interested in ... hiring candidates to join our R&D Efforts across the UK!
+- 👀 I’m interested in ... building the future of Samsung's R&D Efforts across the UK + 3D Printing/Arduino Projects! 
 - 🌱 I’m currently studying...future use cases of AI/GPT implementation to complement rather than replace jobs. 
 - 📫 How to reach me ...daniel.evans@partner.samsung.com
 
